@@ -37,9 +37,11 @@ Designing and shipping distributed backend systems where **data integrity is non
 <!-- The repositories below are auto-pinned via GitHub; these are the ones to feature: -->
 
 - **`ledger-ts`** — a double-entry ledger with database-enforced invariants: append-only log, idempotent writes, deferred constraint triggers, transactional outbox. 40 tests including a 400-op concurrency fuzz, running on embedded Postgres (PGlite) *and* real Postgres in CI.
+- **`resilient-fetcher`** — concurrency resilience in pure stdlib Python: token-bucket rate limiting, backoff with jitter, a circuit breaker, and a batch-level retry budget. 27 deterministic tests (fake clock, injected transport — never touches a socket or sleeps a real second).
 
 ## 📫 How to reach me
 
+- GitHub: [@ellen333712](https://github.com/ellen333712)
 - LinkedIn: `/in/<your-handle>`
 - Email: use the GitHub profile email (reply via issues on my repos works too)
 
