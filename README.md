@@ -42,7 +42,7 @@ Designing and shipping distributed backend systems where **data integrity is non
 ## 📫 How to reach me
 
 - GitHub: [@ellen333712](https://github.com/ellen333712)
-- LinkedIn: `/in/<your-handle>`
+- LinkedIn: [tian-y-17397b60](https://www.linkedin.com/in/tian-y-17397b60/)
 - Email: use the GitHub profile email (reply via issues on my repos works too)
 
 > *"The log is the truth; everything else is a projection."*
