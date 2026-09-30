@@ -1,6 +1,6 @@
 # Hi, I'm Tian Yang 👋
 
-Senior Software Engineer building **correctness-critical systems** — money movement, data pipelines, and the boring infrastructure that has to be right when it's 3am and a customer is watching.
+Technical Software Engineer Leader building **correctness-critical systems** — money movement, data pipelines, and the boring infrastructure that has to be right when it's 3am and a customer is watching.
 
 I care about the unglamorous parts: invariants enforced at the boundary, writes that are idempotent under retry, and systems you can actually reason about under failure.
 
