@@ -1,4 +1,4 @@
-# Hi, I'm Tian Yang 👋
+# Hi, I'm T.Y. 👋
 
 Technical Software Engineer Leader building **correctness-critical systems** — money movement, data pipelines, and the boring infrastructure that has to be right when it's 3am and a customer is watching.
 
@@ -28,7 +28,7 @@ Designing and shipping distributed backend systems where **data integrity is non
 
 ## 💼 Open to
 
-**Senior / Staff Software Engineer** roles — backend, platform, or payments. Remote or San Francisco Bay Area. If you're building systems where correctness matters, let's talk.
+**Engineer Manager / Senior / Staff Software Engineer** roles — backend, platform, or payments. Remote or San Francisco Bay Area, or Souther California. If you're building systems where correctness matters, let's talk.
 
 ---
 
